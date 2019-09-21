@@ -5,4 +5,4 @@ Used this code for SBUHacks2019.
 
 Project: Proto Builds - Flight Stick
 
-Hardware: Arduino Leonardo
+Hardware: Arduino Leonardo, joystick, push  button
