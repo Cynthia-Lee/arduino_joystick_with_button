@@ -1,5 +1,5 @@
 # arduino_joystick_with_button
-Code for Arduino joystick controls and one button.
+Arduino controls for one joystick and one button.
 
 Used this code for SBUHacks2019.
 
